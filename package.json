@@ -1,0 +1,17 @@
+{
+  "name": "recipe-app-db",
+  "version": "1.0.0",
+  "description": "Banco de dados em JSON Server criado como base para a aplicação Recipe App feita na Trybe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js"
+  },
+  "keywords": [],
+  "author": "Guilherme Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "node": "^20.5.0"
+  }
+}
